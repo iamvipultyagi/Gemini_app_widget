@@ -10,9 +10,4 @@ A simple React-based chat widget that integrates with Google's free Gemini text-
 - Chat history saved in localStorage
 - Clean UI with user/assistant message styling
 
-## 🛠️ Setup
 
-1. **Clone the repo:**
-   
-   git clone https://github.com/your-username/gemini-chat-app.git
-   cd gemini-chat-app
